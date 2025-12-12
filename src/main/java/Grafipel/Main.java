@@ -1,4 +1,4 @@
-package Sebus;
+package Grafipel;
 
 public class Main {
     public static void main(String[] args) {

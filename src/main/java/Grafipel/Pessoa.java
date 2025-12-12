@@ -1,4 +1,4 @@
-package Sebus;
+package Grafipel;
 
 public class Pessoa {
     //ATRIBUTOS

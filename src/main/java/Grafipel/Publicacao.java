@@ -1,4 +1,4 @@
-package Sebus;
+package Grafipel;
 
 public interface Publicacao {
     public void abrir();
